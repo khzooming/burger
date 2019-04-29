@@ -20,6 +20,4 @@ SELECT * FROM burgers;
 
 
 
--- INSERT INTO chirps (id, author, chirp, time_created) VALUES ();
-INSERT INTO parties (party_name, party_type, party_cost, client_id) VALUES ('Everybody Loves Raymond', 'tv', 500, 1);
 
